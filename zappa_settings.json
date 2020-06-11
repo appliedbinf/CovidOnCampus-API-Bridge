@@ -1,0 +1,13 @@
+{
+    "dev": {
+        "app_function": "fwd.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "fwd",
+        "runtime": "python3.8",
+        "s3_bucket": "api.covidoncamp.us",
+	"certificate_arn": "arn:aws:acm:us-east-1:316854170224:certificate/7c8f4617-743e-4a35-b8f8-ae425b9ee7c1",
+        "domain": "s.covidoncamp.us"
+    },
+
+}
